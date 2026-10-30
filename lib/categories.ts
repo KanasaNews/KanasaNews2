@@ -1,0 +1,1 @@
+export const CATEGORIES=[["nasional","Nasional"],["internasional","Internasional"],["politik","Politik"],["ekonomi","Ekonomi"],["teknologi","Teknologi"],["pendidikan","Pendidikan"],["kesehatan","Kesehatan"],["olahraga","Olahraga"],["hiburan","Hiburan"],["sains","Sains"],["daerah","Daerah"]] as const;
